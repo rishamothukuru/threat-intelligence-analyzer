@@ -13,8 +13,3 @@ It parses API responses and displays relevant threat info in a simple format.
 - Requests library  
 - JSON parsing
 
-## Usage
-1. Add your API keys to the `.env` file  
-2. Run the script:  
-   ```bash
-   python3 threat_analyzer.py
